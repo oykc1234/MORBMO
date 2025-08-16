@@ -1,5 +1,7 @@
 # Multi-objective Red-billed Blue Magpie Optimizer (MORBMO)
 
+<img width="791" height="273" alt="image" src="https://github.com/user-attachments/assets/11563eca-ea47-4ad9-a14d-3e5e1818ee2a" />
+
 This repository contains the official implementation of the algorithm presented in the paper:  
 **"Multi-objective Red-billed Blue Magpie Optimizer: A Novel Algorithm for Multi-objective UAV Path Planning"**  
 published in *Results in Engineering*.
