@@ -4,6 +4,8 @@ This repository contains the official implementation of the algorithm presented 
 **"Multi-objective Red-billed Blue Magpie Optimizer: A Novel Algorithm for Multi-objective UAV Path Planning"**  
 published in *Results in Engineering*.
 
+<img width="725" height="308" alt="image" src="https://github.com/user-attachments/assets/48f98e79-a1e3-4120-9628-364a34fa5af6" />
+
 ## About the Paper
 The paper proposes MORBMO, a novel multi-objective optimization algorithm inspired by the hunting behaviors and food storage strategies of Red-billed Blue Magpies. Key contributions include:
 
